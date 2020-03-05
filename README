@@ -1,7 +1,7 @@
 Dash demo!
 
 1. Installation
-git clone https://github.com/JacquesGarre/dash_demo (clonage du repo)
+git clone https://github.com/tflk/Transparence-Sant-TEC (clonage du repo)
 cd dash_demo (déplacement dans le dossier de travail)
 pip install virtualenv (installation du package permettant de créer un environnement virtuel)
 virtualenv dash_demo (création d'un environnement virtuel)
